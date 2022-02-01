@@ -4,3 +4,5 @@ This repository is created because of patika.dev homeworks for class diagrams.
 ![](university1.png)
 ### OOP DIAGRAM FOR ZOO MANAGEMENT
 ![](zoodiagram.drawio.png)
+### FLIGHT DIAGRAM 
+![](flightdiagram.drawio.png)
